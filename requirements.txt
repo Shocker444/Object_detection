@@ -1,0 +1,5 @@
+tensorflow==2.10.1
+numpy
+tensorflow_hub
+matplotlib
+# install the tensorflow object detection api from here https://tensorflow-object-detection-api-tutorial.readthedocs.io/
